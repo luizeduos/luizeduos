@@ -15,9 +15,6 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=luizeduos&show_icons=true" />
 </picture>
- <div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="luiz-eduardo-5a183729a" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/luiz-eduardo-5a183729a?trk=profile-badge">Luiz Eduardo</a></div>
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-
 <h2>🎓 Educação</h2>
 <p>Me formei como Auxiliar em Informática no ano passado e estou cursando o Técnico em Informática para Internet, com previsão de formatura para o próximo ano, juntamente com o Ensino Médio.</p>
 <h2>💻 Experiência</h2>
