@@ -16,7 +16,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=luizeduos&show_icons=true" />
 </picture>
 <h2>🎓 Educação</h2>
-<p>Me formei como Auxiliar em Informática no ano passado e estou cursando o Técnico em Informática para Internet, com previsão de formatura para o próximo ano, juntamente com o Ensino Médio.</p>
+<p>Me formei como Técnico em Informática para Internet, juntamente com o Ensino Médio.</p>
 <h2>💻 Experiência</h2>
 <p>Tenho experiência como desenvolvedor front-end e técnico em informática para internet. Durante minha carreira, adquiri habilidades sólidas em várias linguagens de programação e ferramentas, incluindo:</p>
 <ul>
