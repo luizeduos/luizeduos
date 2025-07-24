@@ -2,7 +2,7 @@
 
 <h1>Olá, bem-vindo ao meu GitHub! 👋</h1>
 
-<p>Meu nome é <strong>Luiz Eduardo</strong>, atualmente estou com <strong>18 anos</strong>, e sou um desenvolvedor front-end (porém as vezes programo back-end também), com experiência em várias linguagens de programação e ferramentas, incluindo HTML, CSS, JavaScript, Python, Dart e MySQL. Além disso, tenho habilidades em artes digitais, especialmente no uso do Photoshop.</p>
+<p>Meu nome é <strong>Luiz Eduardo</strong>, atualmente estou com <strong>19 anos</strong>, e sou um desenvolvedor front-end (porém as vezes programo back-end também), com experiência em várias linguagens de programação e ferramentas, incluindo HTML, CSS, JavaScript, Python, Flutter, Dart e MySQL. Além disso, tenho habilidades em artes digitais, especialmente no uso do Photoshop.</p>
 
 <picture>
   <source
