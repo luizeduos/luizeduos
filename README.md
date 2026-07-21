@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="./assets/banner.png" width="100%">
-
 # 👋 Olá, eu sou Luiz Eduardo
 
 ### Full Stack Developer • Cloud • IA • Flutter • Automação
