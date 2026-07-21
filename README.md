@@ -138,33 +138,67 @@ Empresa focada em desenvolvimento de software sob medida, integrações corporat
 
 ## ☁️ Nuuv Cloud
 
-**Site:** https://nuuv.cloud
+🌐 **Site:** https://nuuv.cloud
 
-Plataforma especializada em infraestrutura cloud para ambientes corporativos, oferecendo hospedagem para ERP, monitoramento contínuo, backup, segurança e alta disponibilidade para aplicações críticas. :contentReference[oaicite:1]{index=1}
+Plataforma de infraestrutura em nuvem desenvolvida para oferecer ambientes seguros, escaláveis e de alta disponibilidade. A Nuuv Cloud fornece soluções para hospedagem de aplicações, servidores, ERPs, bancos de dados e ambientes corporativos, com foco em desempenho, monitoramento contínuo e segurança.
+
+### Principais recursos
+
+- ☁️ Infraestrutura Cloud
+- 🐳 Containers Docker
+- 🖥️ Servidores Linux
+- 🔒 Backup e Segurança
+- 📊 Monitoramento em tempo real
+- 🚀 Alta disponibilidade
+- ⚡ Ambientes para aplicações e ERPs
 
 **Tecnologias**
 
-`Docker` `Linux` `Cloud` `Nginx`
+`Docker` `Linux` `Nginx` `Cloud` `Virtualização`
 
 ---
 
 ## 🤖 Sellera
 
-**Site:** https://sellera.sale
+🌐 **Site:** https://sellera.sale
 
-Plataforma de automação comercial com Inteligência Artificial, CRM integrado e integração multicanal, voltada para gestão de leads, atendimento automatizado e aumento de conversão de vendas. :contentReference[oaicite:2]{index=2}
+A Sellera é uma plataforma de automação comercial impulsionada por Inteligência Artificial, desenvolvida para otimizar o atendimento, organizar processos comerciais e aumentar a conversão de vendas. A plataforma centraliza a gestão de leads, CRM e comunicação em um único ambiente.
+
+### Principais recursos
+
+- 🤖 Atendimento com Inteligência Artificial
+- 📋 CRM Integrado
+- 💬 Integração com WhatsApp
+- 📈 Gestão de Leads
+- ⚡ Automação de Processos
+- 📊 Funil de Vendas
+- 🔗 Integração com APIs
 
 **Tecnologias**
 
-`OpenAI`
+`OpenAI` `n8n` `Node.js` `REST API` `WhatsApp Business`
 
-`n8n`
+---
 
-`WhatsApp`
+## 🌐 Nuuv Tecnologia
 
-`CRM`
+🌐 **Site:** https://nuuvtecnologia.com.br
 
-`REST API`
+A Nuuv Tecnologia é especializada no desenvolvimento de soluções tecnológicas sob medida para empresas. Atua com desenvolvimento de software, integrações corporativas, implantação de ERP, infraestrutura cloud e automação de processos, entregando soluções escaláveis e de alta performance.
+
+### Principais soluções
+
+- 💻 Desenvolvimento de Sistemas Web
+- 📱 Desenvolvimento Mobile
+- 🔗 Integrações entre sistemas
+- 📊 Dashboards Gerenciais
+- 🤖 Automação de Processos
+- ☁️ Infraestrutura Cloud
+- ⚙️ Implantação e Customização de ERP
+
+**Tecnologias**
+
+`Flutter` `Node.js` `Docker` `PostgreSQL` `MySQL` `Odoo` `REST API`
 
 ---
 
