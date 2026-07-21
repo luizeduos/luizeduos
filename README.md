@@ -95,8 +95,10 @@ Atualmente curso **Análise e Desenvolvimento de Sistemas**.
 ---
 
 # 📊 Estatísticas
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=luizeduos&show_icons=true&theme=tokyonight&hide_border=true"/>
+<div align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=luizeduos&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=luizeduos&layout=compact&theme=tokyonight&hide_border=true"/>
+</div>
 
 ---
 
