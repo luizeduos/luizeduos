@@ -124,18 +124,6 @@ Atualmente curso **Análise e Desenvolvimento de Sistemas**.
 
 # 🚀 Projetos
 
-## 🌐 Nuuv Tecnologia
-
-**Site:** https://nuuvtecnologia.com.br
-
-Empresa focada em desenvolvimento de software sob medida, integrações corporativas e implantação de ERP para empresas. Atua com integração entre sistemas como Sankhya, Odoo, SAP e TOTVS, além de automação de processos, desenvolvimento web/mobile e APIs personalizadas. :contentReference[oaicite:0]{index=0}
-
-**Tecnologias**
-
-`Node.js` `Flutter` `Docker` `Odoo` `REST API`
-
----
-
 ## ☁️ Nuuv Cloud
 
 🌐 **Site:** https://nuuv.cloud
