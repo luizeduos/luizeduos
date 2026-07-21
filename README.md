@@ -7,12 +7,6 @@
 
 </div>
 
-### Full Stack Developer • Cloud • IA • Flutter • Automação
-
-<p>
-Transformando ideias em soluções através da tecnologia.
-</p>
-
 <p>
 
 <a href="https://github.com/luizeduos">
