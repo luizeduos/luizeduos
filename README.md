@@ -1,22 +1,38 @@
 <div align="center">
 
-<img width="100%" src="https://cutewallpaper.org/26/bedroom-pixel-art-wallpaper/artstation-pixel-art-study-2-igor-flores.gif">
+<img src="./assets/banner.png" width="100%">
 
 # 👋 Olá, eu sou Luiz Eduardo
 
-### Full Stack Developer • Flutter • Cloud • IA • Automação
+### Full Stack Developer • Cloud • IA • Flutter • Automação
 
 <p>
-Apaixonado por tecnologia, desenvolvimento de software e criação de soluções inteligentes que automatizam processos e facilitam a vida das pessoas.
+Transformando ideias em soluções através da tecnologia.
 </p>
 
 <p>
 
-<img src="https://komarev.com/ghpvc/?username=luizeduos&label=Visualizações&color=00C853&style=for-the-badge"/>
+<a href="https://github.com/luizeduos">
+<img src="https://img.shields.io/github/followers/luizeduos?style=for-the-badge&logo=github&label=Seguidores"/>
+</a>
 
-<img src="https://img.shields.io/github/followers/luizeduos?style=for-the-badge&logo=github"/>
+<img src="https://komarev.com/ghpvc/?username=luizeduos&style=for-the-badge&color=19BF70"/>
 
-<img src="https://img.shields.io/github/stars/luizeduos?style=for-the-badge&logo=github"/>
+</p>
+
+<p>
+
+<a href="https://www.linkedin.com/in/luizeduos/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:luiz@nuuv.cloud">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://luizeduos.web.app">
+<img src="https://img.shields.io/badge/Portfólio-19BF70?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
 
 </p>
 
@@ -26,83 +42,81 @@ Apaixonado por tecnologia, desenvolvimento de software e criação de soluções
 
 # 🚀 Sobre mim
 
-💻 Desenvolvedor Full Stack apaixonado por tecnologia.
+Sou desenvolvedor **Full Stack** apaixonado por criar soluções escaláveis para empresas.
 
-Atualmente curso **Análise e Desenvolvimento de Sistemas** e desenvolvo aplicações Web, Mobile e APIs modernas.
-
-Tenho experiência no desenvolvimento de:
+Atuo no desenvolvimento de:
 
 - 🌐 Sistemas Web
 - 📱 Aplicativos Flutter
+- ☁️ Infraestrutura Cloud
 - 🤖 Inteligência Artificial
-- ⚡ Automações utilizando n8n
-- ☁️ Cloud Computing
-- 🐳 Docker
-- 🔗 Integrações REST APIs
+- ⚡ Automações Empresariais
+- 🔗 Integrações entre sistemas
 - 📊 Dashboards
-- 🔌 ESP32 e IoT
+- 🐳 Docker
+- 🔌 IoT com ESP32
 
-Estou sempre aprendendo novas tecnologias e buscando criar soluções úteis, escaláveis e bem estruturadas.
+Atualmente curso **Análise e Desenvolvimento de Sistemas**.
 
 ---
 
-# 🛠 Tecnologias
+# 💻 Stack
 
-## 🎨 Front-end
+### Front-end
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,typescript,bootstrap,flutter,dart,react"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,flutter,dart,react"/>
 </p>
 
-## ⚙️ Back-end
+### Back-end
 
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,python,php,firebase"/>
 </p>
 
-## 🗄 Banco de Dados
+### Banco de Dados
 
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,postgres,firebase"/>
 </p>
 
-## ☁️ DevOps & Cloud
+### DevOps
 
 <p>
 <img src="https://skillicons.dev/icons?i=docker,linux,git,github,nginx,cloudflare"/>
 </p>
 
-## 🧰 Ferramentas
+### Ferramentas
 
 <p>
-<img src="https://skillicons.dev/icons?i=vscode,figma,photoshop,illustrator"/>
+<img src="https://skillicons.dev/icons?i=vscode,figma,ps,ai"/>
 </p>
 
 ---
 
-# 📈 Estatísticas
+# 📊 Estatísticas
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizeduos&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=luizeduos&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizeduos&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizeduos&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🔥 Sequência de contribuições
+# 🔥 Sequência
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=luizeduos&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=luizeduos&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# 📊 Atividade
+# 📈 Atividade
 
 <div align="center">
 
@@ -112,93 +126,78 @@ Estou sempre aprendendo novas tecnologias e buscando criar soluções úteis, es
 
 ---
 
-# 🏆 Conquistas
+# 🚀 Projetos
 
-<div align="center">
+## 🌐 Nuuv Tecnologia
 
-<img src="https://github-profile-trophy.vercel.app/?username=luizeduos&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
+**Site:** https://nuuvtecnologia.com.br
 
-</div>
+Empresa focada em desenvolvimento de software sob medida, integrações corporativas e implantação de ERP para empresas. Atua com integração entre sistemas como Sankhya, Odoo, SAP e TOTVS, além de automação de processos, desenvolvimento web/mobile e APIs personalizadas. :contentReference[oaicite:0]{index=0}
 
----
+**Tecnologias**
 
-# 🚀 Projetos em destaque
-
-### 📱 Desenvolvimento Mobile
-
-- Flutter
-- Firebase
-- Dart
-- APIs REST
-
-### 🌐 Desenvolvimento Web
-
-- HTML
-- CSS
-- JavaScript
-- TypeScript
-- PHP
-
-### 🤖 Inteligência Artificial
-
-- Agentes IA
-- Automações
-- Processamento de linguagem
-- Integrações OpenAI
-
-### ⚡ Automações
-
-- n8n
-- APIs
-- Webhooks
-- CRM
-- WhatsApp
-
-### ☁️ Cloud
-
-- Docker
-- Linux
-- Nginx
-- Cloudflare
-- Firebase Hosting
-
-### 🔌 Hardware
-
-- ESP32
-- Arduino
-- CAN Bus
-- IoT
-- Raspberry Pi
+`Node.js` `Flutter` `Docker` `Odoo` `REST API`
 
 ---
 
-# 📚 Atualmente estudando
+## ☁️ Nuuv Cloud
+
+**Site:** https://nuuv.cloud
+
+Plataforma especializada em infraestrutura cloud para ambientes corporativos, oferecendo hospedagem para ERP, monitoramento contínuo, backup, segurança e alta disponibilidade para aplicações críticas. :contentReference[oaicite:1]{index=1}
+
+**Tecnologias**
+
+`Docker` `Linux` `Cloud` `Nginx`
+
+---
+
+## 🤖 Sellera
+
+**Site:** https://sellera.sale
+
+Plataforma de automação comercial com Inteligência Artificial, CRM integrado e integração multicanal, voltada para gestão de leads, atendimento automatizado e aumento de conversão de vendas. :contentReference[oaicite:2]{index=2}
+
+**Tecnologias**
+
+`OpenAI`
+
+`n8n`
+
+`WhatsApp`
+
+`CRM`
+
+`REST API`
+
+---
+
+# 🚀 Áreas de Interesse
 
 - Inteligência Artificial
-- Arquitetura de Software
 - Cloud Computing
+- Flutter
+- Desenvolvimento Web
+- Arquitetura de Software
 - Docker
-- Kubernetes
-- Microserviços
-- Engenharia de Software
+- APIs
+- ERP
+- Automação
+- IoT
+- ESP32
 
 ---
 
-# 📫 Vamos conversar
+# 📫 Contato
 
 <div align="center">
 
-<a href="https://github.com/luizeduos">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:seuemail@email.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
+| |
+|---|
+| 🌐 **Portfólio:** https://luizeduos.web.app |
+| 💼 **LinkedIn:** https://linkedin.com/in/luizeduos |
+| 📧 **Email:** luiz@nuuv.cloud |
+| 🐙 **GitHub:** https://github.com/luizeduos |
 
 </div>
 
@@ -206,10 +205,10 @@ Estou sempre aprendendo novas tecnologias e buscando criar soluções úteis, es
 
 <div align="center">
 
-## 💙 Obrigado pela visita!
+### 💚 Obrigado pela visita!
 
-*"A melhor maneira de prever o futuro é criá-lo."*
+*"A tecnologia move o mundo. O código transforma ideias em realidade."*
 
-⭐ Não esqueça de dar uma estrela nos projetos que você gostar.
+⭐ Se algum projeto foi útil para você, considere deixar uma estrela.
 
 </div>
