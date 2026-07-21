@@ -1,6 +1,11 @@
 <div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:19bf70&height=220&section=header&text=Luiz%20Eduardo&fontSize=42&fontColor=19bf70&fontAlignY=35&desc=Full%20Stack%20%7C%20Cloud%20%7C%20IA%20%7C%20Flutter%20%7C%20Automa%C3%A7%C3%A3o&descSize=16&descColor=8b949e&descAlignY=55&animation=fadeIn" />
 
-# 👋 Olá, eu sou Luiz Eduardo
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=19BF70&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=70&lines=Transformando+ideias+em+solu%C3%A7%C3%B5es+escal%C3%A1veis;JavaScript+%7C+TypeScript+%7C+Dart+%7C+Python;Do+c%C3%B3digo+%C3%A0+nuvem%2C+da+ideia+ao+deploy)](https://github.com/luizeduos)
+
+</div>
 
 ### Full Stack Developer • Cloud • IA • Flutter • Automação
 
