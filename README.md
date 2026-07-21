@@ -96,13 +96,10 @@ Atualmente curso **Análise e Desenvolvimento de Sistemas**.
 
 # 📊 Estatísticas
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=luizeduos&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizeduos&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizeduos&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizeduos&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+</p>
 
 ---
 
