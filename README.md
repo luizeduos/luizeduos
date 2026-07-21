@@ -119,6 +119,8 @@ Atualmente curso **Análise e Desenvolvimento de Sistemas**.
 
 ---
 
+# 📈 Snake Contributions
+
 <div align="center">
 
 <picture>
